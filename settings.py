@@ -1,3 +1,3 @@
-vk_login = 'mnastia2011@mail.ru'
-vk_password = 'стасананас'
+vk_login = 'логин создателя беседы'
+vk_password = 'пароль создателся беседы'
 vk_app_id = -1
